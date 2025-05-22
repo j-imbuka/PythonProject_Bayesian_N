@@ -1,13 +1,18 @@
 Credit Risk Assessment Using Bayesian Networks
+
 Overview
+
 This project leverages Bayesian Networks to model and infer credit risk based on customer attributes such as income level, experience, home ownership, and car ownership. The solution includes data preprocessing, model training, and inference capabilities to predict "HighRisk" or "LowRisk" classifications.
 
 Key Features
-Data Preprocessing: Discretizes continuous features and maps binary flags.
+Data Preprocessing: Discretises continuous features and maps binary flags.
 Model Training: Builds a Bayesian Network and learns Conditional Probability Tables (CPTs) using Maximum Likelihood Estimation.
 Inference: Supports Variable Elimination, Belief Propagation, and Likelihood Weighting for single and batch predictions.
+
 Installation
-Setup Python environment
+
+Set up Python environment
+
 Ensure you have Python 3.8+ installed. It is recommended to use a virtual environment or Anaconda.
 
 Install required packages
