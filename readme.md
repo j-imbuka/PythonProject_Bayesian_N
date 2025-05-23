@@ -1,4 +1,4 @@
-#Bayesian Networks Project in fulfillment of Msc. Computer Systems, Jean Claude Imbuka - SCT314-C004-0301/2025
+Bayesian Networks Project in fulfillment of Msc. Computer Systems, Jean Claude Imbuka - SCT314-C004-0301/2025
 # Credit Risk Assessment Using Bayesian Networks
 
 ## Overview
